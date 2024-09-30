@@ -1,6 +1,6 @@
 
-###Developed By : 
-###Register Number: 
+###Developed By : RAMYA R
+###Register Number: 212223230169
 ### Smoothing Filters
 # In[1]:Using Averaging Filter
 
